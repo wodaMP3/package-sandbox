@@ -1,0 +1,23 @@
+{
+  "name": "babel",
+  "version": "1.0.0",
+  "description": "sandbox for react tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wodaMP3/package-sandbox.git"
+  },
+  "author": "Artem Woda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wodaMP3/package-sandbox/issues"
+  },
+  "homepage": "https://github.com/wodaMP3/package-sandbox#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.23.9",
+    "@babel/core": "^7.24.0"
+  }
+}
